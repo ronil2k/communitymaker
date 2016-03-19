@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: de8y8r1nz
+  api_key: '443152489675142'
+  api_secret: lpyN3bM34XphqBrTVKkCeHjOKvw
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: de8y8r1nz
+  api_key: '443152489675142'
+  api_secret: lpyN3bM34XphqBrTVKkCeHjOKvw
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: de8y8r1nz
+  api_key: '443152489675142'
+  api_secret: lpyN3bM34XphqBrTVKkCeHjOKvw
+  enhance_image_tag: true
+  static_image_support: false
